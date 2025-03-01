@@ -1,0 +1,427 @@
+[
+  {
+    "question": "Which of the following is a rare but serious complication in early pregnancy where a fertilized egg implants outside the uterus?",
+    "options": ["Miscarriage", "Ovarian cyst", "Ectopic pregnancy", "UTI"],
+    "correctAnswer": "Ectopic pregnancy"
+  },
+  {
+    "question": "What is a common symptom of ectopic pregnancy?",
+    "options": [
+      "Fever",
+      "Pain in the tip of the shoulder",
+      "Nausea",
+      "Itching"
+    ],
+    "correctAnswer": "Pain in the tip of the shoulder"
+  },
+  {
+    "question": "Which diagnostic method is commonly used to evaluate abdominal pain in early pregnancy?",
+    "options": ["X-ray", "Ultrasound", "CT scan", "PET scan"],
+    "correctAnswer": "Ultrasound"
+  },
+  {
+    "question": "What is the loss of pregnancy before the 20th week called?",
+    "options": [
+      "Ectopic pregnancy",
+      "Stillbirth",
+      "Miscarriage",
+      "Preterm labor"
+    ],
+    "correctAnswer": "Miscarriage"
+  },
+  {
+    "question": "Which of the following is NOT listed as a cause of lower abdominal pain in early pregnancy?",
+    "options": [
+      "Ectopic pregnancy",
+      "Ovarian cyst accidents",
+      "Appendicitis",
+      "Placenta previa"
+    ],
+    "correctAnswer": "Placenta previa"
+  },
+  {
+    "question": "What is a potential complication of an untreated ectopic pregnancy?",
+    "options": [
+      "Weight gain",
+      "Severe bleeding and rupture of the fallopian tube",
+      "Constipation",
+      "Headaches"
+    ],
+    "correctAnswer": "Severe bleeding and rupture of the fallopian tube"
+  },
+  {
+    "question": "Which of the following treatments is appropriate for UTI during pregnancy?",
+    "options": [
+      "Antibiotics",
+      "Surgery",
+      "Digital repositioning of the uterus",
+      "Vaginal pessary"
+    ],
+    "correctAnswer": "Antibiotics"
+  },
+  {
+    "question": "What nursing action is important when caring for a patient with abdominal pain in early pregnancy?",
+    "options": [
+      "Recommend vigorous exercise",
+      "Monitor vital signs",
+      "Restrict fluid intake",
+      "Encourage bedrest for all types of pain"
+    ],
+    "correctAnswer": "Monitor vital signs"
+  },
+  {
+    "question": "What is the management for round ligament pain in early pregnancy?",
+    "options": [
+      "Surgery",
+      "Antibiotics",
+      "No specific treatment needed",
+      "Hospitalization"
+    ],
+    "correctAnswer": "No specific treatment needed"
+  },
+  {
+    "question": "What condition can lead to kidney damage if left untreated during pregnancy?",
+    "options": [
+      "Round ligament pain",
+      "Urinary tract infection",
+      "Constipation",
+      "Heartburn"
+    ],
+    "correctAnswer": "Urinary tract infection"
+  },
+  {
+    "question": "What is the term for the pain caused by the uterus contracting to return to its original size after childbirth?",
+    "options": [
+      "Labor pains",
+      "After pains",
+      "Braxton Hicks contractions",
+      "Round ligament pain"
+    ],
+    "correctAnswer": "After pains"
+  },
+  {
+    "question": "Which of the following is a common cause of abdominal pain in the postpartum period?",
+    "options": [
+      "Constipation",
+      "Ectopic pregnancy",
+      "Miscarriage",
+      "Placenta previa"
+    ],
+    "correctAnswer": "Constipation"
+  },
+  {
+    "question": "What symptom, when combined with abdominal pain after childbirth, requires immediate medical attention?",
+    "options": ["Mild fatigue", "Fever", "Occasional headache", "Hunger"],
+    "correctAnswer": "Fever"
+  },
+  {
+    "question": "What treatment is recommended for constipation after childbirth?",
+    "options": [
+      "Antibiotics",
+      "Increased fiber intake and hydration",
+      "Surgery",
+      "Bedrest"
+    ],
+    "correctAnswer": "Increased fiber intake and hydration"
+  },
+  {
+    "question": "Which infection can cause abdominal pain after childbirth?",
+    "options": ["Common cold", "Influenza", "Endometritis", "Pneumonia"],
+    "correctAnswer": "Endometritis"
+  },
+  {
+    "question": "What should be avoided after a C-section to prevent complications?",
+    "options": [
+      "Walking",
+      "Light stretching",
+      "Heavy lifting",
+      "Gentle massage"
+    ],
+    "correctAnswer": "Heavy lifting"
+  },
+  {
+    "question": "Which complication can result from untreated infections during the postpartum period?",
+    "options": [
+      "Kidney or liver failure",
+      "Hair loss",
+      "Weight gain",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Kidney or liver failure"
+  },
+  {
+    "question": "What nursing intervention is appropriate for a patient with C-section pain?",
+    "options": [
+      "Encourage vigorous exercise",
+      "Keep the incision site clean",
+      "Apply heat directly to the incision",
+      "Restrict fluid intake"
+    ],
+    "correctAnswer": "Keep the incision site clean"
+  },
+  {
+    "question": "Which symptom, along with abdominal pain, might indicate high blood pressure complications after childbirth?",
+    "options": [
+      "Increased appetite",
+      "Intense fatigue",
+      "Increased urination",
+      "Increased thirst"
+    ],
+    "correctAnswer": "Intense fatigue"
+  },
+  {
+    "question": "What is the definitive treatment for pre-eclampsia?",
+    "options": [
+      "Bedrest",
+      "Increased fluid intake",
+      "Delivery of the baby",
+      "Antibiotics"
+    ],
+    "correctAnswer": "Delivery of the baby"
+  },
+  {
+    "question": "Which hormone increases during pregnancy and can lead to respiratory alkalosis?",
+    "options": ["Estrogen", "Progesterone", "Testosterone", "Cortisol"],
+    "correctAnswer": "Progesterone"
+  },
+  {
+    "question": "What mechanical factor contributes to breathing difficulty in pregnancy?",
+    "options": [
+      "Decreased blood volume",
+      "Enlarging uterus pressing on the diaphragm",
+      "Reduced heart rate",
+      "Decreased body temperature"
+    ],
+    "correctAnswer": "Enlarging uterus pressing on the diaphragm"
+  },
+  {
+    "question": "When do most women experience the most significant breathing difficulties during pregnancy?",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Third trimester",
+      "Early postpartum period"
+    ],
+    "correctAnswer": "Third trimester"
+  },
+  {
+    "question": "Which blood abnormality can contribute to breathing difficulties during pregnancy?",
+    "options": ["Anemia", "Hyperkalemia", "Hypercalcemia", "Hyponatremia"],
+    "correctAnswer": "Anemia"
+  },
+  {
+    "question": "What positioning advice should be given to pregnant women experiencing breathing difficulties?",
+    "options": [
+      "Always lie flat on back",
+      "Always lie on right side",
+      "Proper posture and optimal sleeping positions",
+      "Remain seated upright at all times"
+    ],
+    "correctAnswer": "Proper posture and optimal sleeping positions"
+  },
+  {
+    "question": "Which of the following is NOT a symptom of breathing difficulty in pregnancy?",
+    "options": [
+      "Shortness of breath",
+      "Chest tightness",
+      "High fever",
+      "Rapid breathing"
+    ],
+    "correctAnswer": "High fever"
+  },
+  {
+    "question": "What breathing technique can help improve lung capacity during pregnancy?",
+    "options": [
+      "Holding breath for long periods",
+      "Shallow, rapid breathing",
+      "Deep breathing exercises",
+      "Breathing only through the mouth"
+    ],
+    "correctAnswer": "Deep breathing exercises"
+  },
+  {
+    "question": "Which condition represents an increased risk during pregnancy due to a hypercoagulable state?",
+    "options": ["Pneumonia", "Bronchitis", "Pulmonary embolism", "Common cold"],
+    "correctAnswer": "Pulmonary embolism"
+  },
+  {
+    "question": "What diagnostic test can evaluate cardiac function in pregnant women with breathing difficulties?",
+    "options": ["MRI", "CT scan", "Echocardiogram", "EEG"],
+    "correctAnswer": "Echocardiogram"
+  },
+  {
+    "question": "What nursing intervention is appropriate for a pregnant patient experiencing breathing difficulty?",
+    "options": [
+      "Restrict fluid intake",
+      "Regular assessment of respiratory status",
+      "Encourage bedrest for the remainder of pregnancy",
+      "Recommend high-intensity exercise"
+    ],
+    "correctAnswer": "Regular assessment of respiratory status"
+  },
+  {
+    "question": "What is the primary significance of fetal movement during pregnancy?",
+    "options": [
+      "It helps strengthen fetal muscles",
+      "It indicates fetal well-being and neurological development",
+      "It helps position the baby for delivery",
+      "It promotes maternal weight gain"
+    ],
+    "correctAnswer": "It indicates fetal well-being and neurological development"
+  },
+  {
+    "question": "Which maternal factor can influence the perception of fetal movements?",
+    "options": ["Eye color", "Height", "Obesity", "Blood type"],
+    "correctAnswer": "Obesity"
+  },
+  {
+    "question": "What is the term for reduced amniotic fluid that can limit fetal movements?",
+    "options": [
+      "Polyhydramnios",
+      "Oligohydramnios",
+      "Hydrocephalus",
+      "Hydrops fetalis"
+    ],
+    "correctAnswer": "Oligohydramnios"
+  },
+  {
+    "question": "What test assesses fetal heart rate in response to movements?",
+    "options": [
+      "Ultrasound",
+      "Non-stress test (NST)",
+      "Alpha-fetoprotein test",
+      "Glucose tolerance test"
+    ],
+    "correctAnswer": "Non-stress test (NST)"
+  },
+  {
+    "question": "What placental issue can lead to decreased fetal movement?",
+    "options": [
+      "Placental migration",
+      "Placental insufficiency",
+      "Placental expansion",
+      "Placental calcification"
+    ],
+    "correctAnswer": "Placental insufficiency"
+  },
+  {
+    "question": "What simple monitoring technique can pregnant women use to track fetal movements?",
+    "options": [
+      "Daily weight measurements",
+      "Blood pressure monitoring",
+      "Kick counting",
+      "Temperature recording"
+    ],
+    "correctAnswer": "Kick counting"
+  },
+  {
+    "question": "What maternal intervention might help stimulate fetal movement?",
+    "options": [
+      "Consuming cold water",
+      "Extended sleep",
+      "Skipping meals",
+      "Taking hot baths"
+    ],
+    "correctAnswer": "Consuming cold water"
+  },
+  {
+    "question": "What is a potential consequence of delayed intervention in cases of decreased fetal movement?",
+    "options": [
+      "Maternal weight gain",
+      "Extended pregnancy",
+      "Adverse pregnancy outcomes",
+      "Earlier labor"
+    ],
+    "correctAnswer": "Adverse pregnancy outcomes"
+  },
+  {
+    "question": "Which imaging study can help visualize fetal movements?",
+    "options": ["X-ray", "CT scan", "Ultrasound", "MRI"],
+    "correctAnswer": "Ultrasound"
+  },
+  {
+    "question": "What naturally occurring fetal state can lead to periods of reduced movement?",
+    "options": [
+      "Fetal distress",
+      "Fetal sleep-wake cycles",
+      "Fetal malnutrition",
+      "Fetal growth spurts"
+    ],
+    "correctAnswer": "Fetal sleep-wake cycles"
+  },
+  {
+    "question": "Which of the following conditions requires immediate medical attention during pregnancy?",
+    "options": [
+      "Round ligament pain",
+      "Mild constipation",
+      "Appendicitis",
+      "Occasional heartburn"
+    ],
+    "correctAnswer": "Appendicitis"
+  },
+  {
+    "question": "What is an important nursing responsibility when caring for pregnant women?",
+    "options": [
+      "Making all decisions for the patient",
+      "Restricting patient movement",
+      "Providing emotional support and education",
+      "Limiting information to prevent anxiety"
+    ],
+    "correctAnswer": "Providing emotional support and education"
+  },
+  {
+    "question": "Which symptoms might indicate pre-eclampsia in pregnancy?",
+    "options": [
+      "Increased appetite and weight loss",
+      "Severe headaches and high blood pressure",
+      "Reduced urination and thirst",
+      "Increased energy and insomnia"
+    ],
+    "correctAnswer": "Severe headaches and high blood pressure"
+  },
+  {
+    "question": "What is the appropriate management for heartburn during pregnancy?",
+    "options": [
+      "Surgery",
+      "Bed rest",
+      "Antacids and lifestyle changes",
+      "Antibiotics"
+    ],
+    "correctAnswer": "Antacids and lifestyle changes"
+  },
+  {
+    "question": "Which condition is associated with pain in the tip of the shoulder during early pregnancy?",
+    "options": [
+      "Miscarriage",
+      "Round ligament pain",
+      "Ectopic pregnancy",
+      "UTI"
+    ],
+    "correctAnswer": "Ectopic pregnancy"
+  },
+  {
+    "question": "What is a key nursing assessment for a pregnant woman reporting abdominal pain?",
+    "options": [
+      "Check only blood pressure",
+      "Monitor only temperature",
+      "Assess for signs of complications",
+      "Recommend immediate C-section"
+    ],
+    "correctAnswer": "Assess for signs of complications"
+  },
+  {
+    "question": "Which diagnostic tool is commonly used to check blood flow in the umbilical cord and placenta?",
+    "options": ["X-ray", "Doppler flow studies", "Blood test", "Amniocentesis"],
+    "correctAnswer": "Doppler flow studies"
+  },
+  {
+    "question": "What is a common maternal hormonal change that increases oxygen demand during pregnancy?",
+    "options": [
+      "Decreased estrogen",
+      "Increased progesterone",
+      "Decreased cortisol",
+      "Increased testosterone"
+    ],
+    "correctAnswer": "Increased progesterone"
+  }
+]
