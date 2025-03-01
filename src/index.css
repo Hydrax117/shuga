@@ -146,6 +146,7 @@ body {
 /* components/Quiz.css */
 .quiz-container {
   padding: 20px;
+  background-color: #333;
 }
 
 .question-navigation {
