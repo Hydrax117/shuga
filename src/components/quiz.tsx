@@ -39,14 +39,10 @@ const Quiz: React.FC = () => {
           onPrev={handlePreviousQuestion}
           hasPrev={state.currentQuestionIndex > 0}
           hasNext={state.currentQuestionIndex < questions.length - 1}
+          questionNumber={state.currentQuestionIndex + 1} // Pass questionNumber
         />
       )}
-      <button className="submit-button" onClick={handleSubmit}>
-        Submit Quiz
-      </button>
-      <br />
 
-      <br />
       <div className="question-navigation">
         {questions.map((_, index) => (
           <button
@@ -60,6 +56,10 @@ const Quiz: React.FC = () => {
           </button>
         ))}
       </div>
+
+      <button className="submit-button" onClick={handleSubmit}>
+        Submit Quiz
+      </button>
     </div>
   );
 };

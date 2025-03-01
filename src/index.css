@@ -76,6 +76,11 @@ body {
   border-radius: 8px;
   margin: 20px;
 }
+.question-number {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #bbb; /* Slightly lighter color */
+}
 
 .question-text {
   font-size: 1.5rem;

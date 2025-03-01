@@ -10,6 +10,7 @@ interface QuestionProps {
   onPrev: () => void;
   hasPrev: boolean;
   hasNext: boolean;
+  questionNumber: number; // Add questionNumber prop
 }
 
 const Question: React.FC<QuestionProps> = ({
@@ -20,11 +21,14 @@ const Question: React.FC<QuestionProps> = ({
   onPrev,
   hasPrev,
   hasNext,
+  questionNumber, // Destructure questionNumber
 }) => {
   const optionLabels = ["A", "B", "C", "D"];
 
   return (
     <div className="question-container">
+      <h3 className="question-number">Question {questionNumber}</h3>{" "}
+      {/* Display question number */}
       <h2 className="question-text">{question.question}</h2>
       <ul className="options-list">
         {question.options.map((option, index) => (
