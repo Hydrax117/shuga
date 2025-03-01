@@ -4,6 +4,5 @@ export interface QuizState {
   answers: string[];
   score: number;
   showResult: boolean;
-  timer: number;
   quizStarted: boolean;
 }

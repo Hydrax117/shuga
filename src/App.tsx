@@ -1,5 +1,4 @@
 // App.tsx
-import React from "react";
 import Quiz from "./components/quiz";
 import "./index.css";
 
